@@ -48,6 +48,7 @@ public class GitDemo {
         }
         
         return newNumber;
+        reverseNum = newNumber;
     }
     
 }
